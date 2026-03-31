@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "RvJYrdrWlkuVTMjuJYO4O"
+uri = "file://client/src/assets/images/project-hostel.png"
+type = "image"
+title = "Hostel Management System UI"
+
+[[generated]]
+id = "StwPcfVrdnOO3s7XxJRy2"
+uri = "file://client/src/assets/images/project-ai-blog.png"
+type = "image"
+title = "AI Blog Summarizer Concept"
+
+[[generated]]
+id = "5mhbOHOf4y1r_PD1hI8Uk"
+uri = "file://client/src/assets/images/project-mental-health.png"
+type = "image"
+title = "Mental Health Tracker UI"
+
+[[generated]]
+id = "MftyC9tGENM8xVtlFydW0"
+uri = "file://client/src/assets/images/project-todo.png"
+type = "image"
+title = "ToDo App Calendar UI"
+
+[[generated]]
+id = "LInxwN1QpOYoB_SuUwZdW"
+uri = "file://client/src/assets/images/project-sensor.png"
+type = "image"
+title = "Sensor Data AI UI"
+
+[[generated]]
+id = "PeXu7Mq-6ROCP9XynGeE1"
+uri = "file://client/src/assets/images/hero-bg.png"
+type = "image"
+title = "Hero Background"
